@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 CUID="13" tvg-name="beIN SPORTS HD" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-701751694776918j9z4hzfvei.png" group-title="قنوات بين سبورت",beIN SPORTS HD (Backup 1)
+http://135.125.109.73:9000/beinsportglobal_.m3u8
+#EXTINF:0 CUID="14" tvg-name="beIN SPORTS NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="قنوات بين سبورت",beIN SPORTS NEWS (Backup 2)
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:0 CUID="12" tvg-name=" SPORTS NEWS (Backup 1)" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="قنوات بين سبورت",beIN SPORTS NEWS"
+http://135.125.109.73:9000/beinsportnew_.m3u8
+#EXTINF:0 CUID="15" tvg-name="Bein Sport 1 En" tvg-logo="https://mncvision.tv/userfiles/image/channel/beIN-1.jpg" group-title="قنوات بين سبورت",Bein Sport 1 En
+http://135.125.109.73:9000/beinsporten1_.m3u8
+#EXTINF:0 CUID="16" tvg-name="Bein Sport 2 En" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="قنوات بين سبورت",Bein Sport 2 En
+http://135.125.109.73:9000/beinsporten2_.m3u8
+#EXTINF:0 CUID="17" tvg-name="LIVE 24 -000" tvg-logo="https://bit.ly/4193wOv" group-title="قنوات بين سبورت",LIVE 24 -000
+https://shawkat-zebari.short.gy/Gewher.m3u8
